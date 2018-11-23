@@ -11,7 +11,7 @@ public class SomatorioTest {
 	public void TestSimples() {
 		assertEquals(10, Somatorio.somar(7,  3));
 		assertEquals(45, Somatorio.somar(40,  5));
-		assertEquals(2, Somatorio.somar(0,  0));
+		assertEquals(0, Somatorio.somar(0,  0));
 	}
 
 }
