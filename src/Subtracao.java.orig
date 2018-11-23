@@ -1,0 +1,11 @@
+
+public class Subtracao {
+
+	public static int subtrair(int n1, int n2)  {
+<<<<<<< HEAD
+		return n1 / n2;
+=======
+		return n1 + n2;
+>>>>>>> 089ac8058a6e60d5fd31f2b48fa24bb4315c70a2
+	}
+}
